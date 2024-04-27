@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aizhan_Kanybekova_3_7</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FILMS">Films</string>
+    <string name="film_genre">film genre:</string>
+    <string name="Comedy_films">Comedy films</string>
+</resources>
